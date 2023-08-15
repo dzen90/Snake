@@ -8,9 +8,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Random;
 
-/**
- * Created by Zigfrid on 11/21/2014.
- */
 public class Game extends Canvas implements Runnable, KeyListener{
 
     public static final int WIDTH = 300, HEIGHT = 300;
