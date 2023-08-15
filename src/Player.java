@@ -1,8 +1,5 @@
 import java.awt.*;
 
-/**
- * Created by Zigfrid on 11/21/2014.
- */
 public class Player {
     public enum MovingDirection  {
         Up, Down, Right, Left
